@@ -1,0 +1,6 @@
+{
+  "name": "LUXEMARK · Real Estate Photography & Media",
+  "description": "Professional interior & exterior ground photography, on-site & virtual day-to-dusk twilight, virtual staging, and single property websites powered by Sanity CMS & GitHub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
